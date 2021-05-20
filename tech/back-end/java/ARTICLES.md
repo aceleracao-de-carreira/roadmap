@@ -1,6 +1,4 @@
-# Artigos sobre Back-end
-
-## JAVA
+# Artigos sobre JAVA
 
 - [Gerenciando versões com SDKMAN!](https://dev.to/gabrielronei/gerenciando-versoes-com-sdkman-ne9)
 - [Como não usar o Optional do Java](https://medium.com/cwi-software/como-n%C3%A3o-usar-o-optional-do-java-d7ccf51cbf2e)
