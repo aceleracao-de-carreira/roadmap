@@ -1,4 +1,4 @@
-# Lista de materiais gratuitos
+# Materiais gratuitos
 
 - [Uma lista dos materiais gratuitos diponibilizados pela Rocketseat, incluindo conteúdos do Blog, Youtube e Instagram.](https://github.com/Rocketseat/awesome)
 - [Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.](https://github.com/iuricode/recursos-gratuitos)

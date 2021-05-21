@@ -6,16 +6,43 @@ Mentor: **Hemerson Vianna** | [Website](https://hemersonvianna.com.br/) | [Githu
 
 ## Sumário
 
-- [Artigos](./articles/README.md)
-  - [Back-end](./articles/BACKEND.md)
-  - [Ciência de dados](./articles/DATASCIENCE.md)
-  - [Front-end](./articles/FRONTEND.md)
 - Carreira
-  - Entrevista
+  - Marketing Pessoal
   - Currículo
+  - Entrevista
   - Desafios
+- Gestão
+  - Métodos Ágeis
+  - Produtividade e Qualidade de Vida
+  - Habilidades Interpessoais
+  - E-commerce
+  - Gestão de Produtos
 - Tech
   - Back-end
-  - Ciência de dados
-  - Front-end
-- [Lista de materiais gratuitos](./AWESOME.md)
+    - Node.js
+    - Python
+    - PHP
+    - [JAVA](./tech/back-end/java/README.md) -------------------------- `artigos`
+  - [Ciência de dados](./tech/data-science/README.md) ----------------- `artigos`
+    - SQL e Banco de Dados
+    - Machine Learning
+    - Business Intelligence
+    - NoSQL
+    - Estatística
+  - DevOps
+    - [Git](./tech/dev-ops/git/README.md) ----------------------------- `artigos` - `vídeos`
+    - Entrega Contínua
+    - Containers
+  - [Front-end](./tech/front-end/README.md) --------------------------- `artigos`
+    - HTML e CSS
+    - JavaScript
+    - React
+    - Angular
+    - Vue.js
+    - Automação e Performance
+  - Mobile
+    - Multiplataforma
+- UX/UI
+  - UX - User Experience
+  - UI - User Interface
+- [Materiais gratuitos](./AWESOME.md)

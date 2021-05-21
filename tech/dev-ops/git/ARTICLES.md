@@ -1,0 +1,15 @@
+# Artigos sobre GIT
+
+- [Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/)
+- [GitHub e Git - Colaboração e Organização](https://www.devmedia.com.br/github-e-git-colaboracao-e-organizacao/24150)
+- [Uma introdução ao Git: O que é e como usar](https://medium.com/taciossbr/uma-introducao-ao-git-o-que-e-e-como-usar-1dd721a1e6b0)
+- [Como se tornar um especialista em git](https://medium.com/taciossbr/como-se-tornar-um-especialista-em-git-7230a4ce0d40)
+- [Utilizando o fluxo Git Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04)
+- [Plano para estudar Git e GitHub enquanto aprende programação](https://medium.com/@uillaz/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459)
+- [Aprenda o Git com Bitbucket Cloud](https://www.atlassian.com/br/git/tutorials/learn-git-with-bitbucket-cloud)
+- [Gerenciando seus branches com o Git Flow](https://tableless.com.br/git-flow-introducao/)
+- [Git Flow: a estratégia essencial para organizar as versões de um código](https://www.hostgator.com.br/blog/git-flows-versoes-de-um-codigo/)
+- [Git e Github: o que são e primeiros passos](https://www.alura.com.br/artigos/o-que-e-git-github)
+- [Git e GitHub – Guia de Comandos](https://devcontent.com.br/artigos/git-e-github/guia-de-comandos)
+- [Trabalhando com repositórios remotos - Git e GitHub](https://woliveiras.com.br/posts/trabalhando-com-reposit%C3%B3rios-remotos-git-e-github/)
+- [Git Parte 1: Como Surgiu a Ferramenta de Controle de Versão Mais Usada no Mundo](https://blog.taller.net.br/git-parte-1-como-durgiu-a-ferramenta-de-controle-de-versao/)
