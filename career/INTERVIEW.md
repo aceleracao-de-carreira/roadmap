@@ -1,6 +1,6 @@
 # Se preparando para uma entrevista
 
-Acredito que a etapa de entrevista em um processo seletivo, seja o momento mais tenso para quem deseja entrar em uma empresa. Nesse momento, já se criou uma esperança com a aceitação do currículo e de um possível desafio técnico. Agora, o que parece estar em jogo é o seu **marketing pessoal**.
+Acredito que a etapa de entrevista em um processo seletivo seja o momento mais tenso para quem deseja entrar em uma empresa. Nesse momento já se criou uma esperança com a aceitação do currículo e de um possível desafio técnico. Agora o que parece estar em jogo é o seu **marketing pessoal**.
 
 ## Momento de incertezas
 
@@ -11,9 +11,11 @@ Já tive muitas experiências tanto como candidato em um processo seletivo, como
 São muitas variáveis e emoções humanas, que nem sempre são consideradas. Em um diálogo entre uma pessoa que entrevista e uma que é a entrevistada, raramente ambos estarão cientes do que aquele momento representa para cada pessoa.
 
 Acabei definindo o momento como **incerto**, pois exige uma combinação de fatores. Obviamente, a pessoa que está recrutando fica com a missão de conduzir e extrair o melhor da pessoa que está se candidatando, mas também se tem outros fatores. Exemplos:
- - A pessoa que está se candidatando trava e não se mostra.
- - A pessoa que está se candidatando demonstrar um perfil comportamental que não combina com o perfil cultural da empresa.
- - A pessoa que está sendo entrevistada não se encaixa na vaga disponível. A empresa pode considerar que a pessoa que está sendo entrevistada, está acima do perfil da vaga.
+ 
+ **A pessoa que está sendo entrevistada...**
+ - ...trava e não se mostra.
+ - ...demonstra um perfil comportamental que não combina com o perfil cultural da empresa.
+ - ...não se encaixa na vaga disponível. A empresa pode considerar que a pessoa que está sendo entrevistada, está acima do perfil da vaga.
 
 Não se encaixar na vaga disponível, abre um leque de possibilidades. Então não continuar no processo após uma entrevista, não quer dizer necessariamente que é uma resposta negativa ao perfil. Sim, isso acontece.
 
@@ -100,7 +102,7 @@ Deixo aqui alguns links para quem quiser saber mais como se comportar e/ou quer 
 - [Como se comportar em uma entrevista de emprego por vídeo](https://talentoincluir.com.br/candidatos/como-se-comportar-em-uma-entrevista-de-emprego-por-video/)
 - [Quarentena: 10 dicas para fazer entrevista de emprego por videochamada](https://www.catolicasc.org.br/blog/como-fazer-entrevista-online/)
 
-## Conclusão
+## Considerações finais
 
 Um gerente já me demitiu de uma empresa, por descobrir que eu estava fazendo entrevista em outra. Em uma empresa o gerente me aconselhou a fazer entrevistas em outras empresas de 6 em 6 meses, para ficar por dentro do mercado.
 Já aceitei oportunidades por desespero na vida financeira ou por não reconhecer o meu valor como profissional.
