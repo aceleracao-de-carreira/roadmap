@@ -8,7 +8,7 @@ Mentor: **Hemerson Vianna** | [Website](https://hemersonvianna.com.br/) | [Githu
 ## Sumário
 
 - Carreira
-  - Marketing Pessoal
+  - [Marketing Pessoal](./career/PERSONAL-MARKETING.md)
   - [Currículo](./career/CURRICULUM.md)
   - [Entrevista](./career/INTERVIEW.md)
   - Desafios
