@@ -30,16 +30,28 @@ Mentor: **Hemerson Vianna** | [Website](https://hemersonvianna.com.br/) | [Githu
     - NoSQL
     - Estatística
   - DevOps
+    - [Computação em Nuvem](./tech/dev-ops/cloud-computing/README.md) ----------------------------- `artigo completo` - `artigos` - `vídeos`
     - [Git](./tech/dev-ops/git/README.md) ----------------------------- `artigos` - `vídeos`
     - Entrega Contínua
     - Containers
   - [Front-end](./tech/front-end/README.md) --------------------------- `artigos`
     - HTML e CSS
     - JavaScript
+    - Sass, Stylus e Less
+    - Schema.org
+    - Acessibilidade
     - React
     - Angular
     - Vue.js
     - Automação e Performance
+      - Webpack
+      - Critical Render Path
+      - Otimização de imagens
+      - Lazy load
+      - Resource Hints
+      - Google Lighthouse
+    - GraphQL
+    - SSR
   - Mobile
     - Multiplataforma
 - UX/UI
