@@ -30,7 +30,7 @@ Mentor: **Hemerson Vianna** | [Website](https://hemersonvianna.com.br/) | [Githu
     - NoSQL
     - Estatística
   - DevOps
-    - [Computação em Nuvem](./tech/dev-ops/cloud-computing/README.md) ----------------------------- `artigo completo` - `artigos` - `vídeos`
+    - [Computação em Nuvem](./tech/dev-ops/cloud-computing/README.md) ----------------------------- `artigo completo`
     - [Git](./tech/dev-ops/git/README.md) ----------------------------- `artigos` - `vídeos`
     - Entrega Contínua
     - Containers
