@@ -1,6 +1,7 @@
 # Desenvolve - 2021-1
 
-[//]: # (Período: 17/02 a 30/06)
+[//]: # (Período com acesso no GB: 17/02 a --/--)
+[//]: # (Período desde o primeiro contato: 24/02 a --/--)
 
 Mentor: **Hemerson Vianna** | [Website](https://hemersonvianna.com.br/) | [Github](https://github.com/ui2code)
 
@@ -8,8 +9,8 @@ Mentor: **Hemerson Vianna** | [Website](https://hemersonvianna.com.br/) | [Githu
 
 - Carreira
   - Marketing Pessoal
-  - [Currículo](./career/CURRICULUM.md) -------------------------- `artigo completo`
-  - [Entrevista](./career/INTERVIEW.md) -------------------------- `artigo completo`
+  - [Currículo](./career/CURRICULUM.md)
+  - [Entrevista](./career/INTERVIEW.md)
   - Desafios
 - Gestão
   - Métodos Ágeis
@@ -30,7 +31,7 @@ Mentor: **Hemerson Vianna** | [Website](https://hemersonvianna.com.br/) | [Githu
     - NoSQL
     - Estatística
   - DevOps
-    - [Computação em Nuvem](./tech/dev-ops/cloud-computing/README.md) ----------------------------- `artigo completo`
+    - [Computação em Nuvem](./tech/dev-ops/cloud-computing/README.md)
     - [Git](./tech/dev-ops/git/README.md) ----------------------------- `artigos` - `vídeos`
     - Entrega Contínua
     - Containers
