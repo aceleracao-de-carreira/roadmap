@@ -1,9 +1,6 @@
-# Desenvolve - 2021-1
+# Mentoria - Roadmap
 
-[//]: # (Período com acesso no GB: 17/02 a --/--)
-[//]: # (Período desde o primeiro contato: 24/02 a --/--)
-
-Mentor: **Hemerson Vianna** | [Website](https://hemersonvianna.com.br/) | [Github](https://github.com/ui2code)
+Mentor: **Hemerson Vianna** | [Website](https://ui2code.com) | [Github](https://github.com/ui2code)
 
 ## Sumário
 
